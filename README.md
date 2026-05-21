@@ -1,4 +1,4 @@
-# Energy_Sufficient_Safe_Centralized_Control
+# Energy Sufficient Safe Centralized Control
 Supplementary simulation code for the ITSC 2026 paper "Safe and Energy-Aware Multi-Robot Density Control via PDE-Constrained Optimization for Long-Duration Autonomy" (https://arxiv.org/abs/2604.15524)
 
 The RRT path-planning component is adapted from: https://github.com/stephane-caron/rrt-completeness/tree/master
