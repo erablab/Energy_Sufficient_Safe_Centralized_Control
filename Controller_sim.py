@@ -163,7 +163,7 @@ dt = 0.02
 c_e = 0.05 # motion cost
 E_min = 0.1
 c_0 = 0.009 # constant operation cost
-gain = 0.15 # gain on DV, loosely representing the effects of noise + const cost on expected energy decrease.
+gain = 0.16 # gain on DV, loosely representing the effects of noise + const cost on expected energy decrease.
 # Since it is very unlikely that the next step steps exactly in the direction of the path-to-charge.
 # Half the motion noise (unit circle pointing away from DV) will cause increase of energy-to-charge,
 # with the rest not lining up with the perfect path either.
